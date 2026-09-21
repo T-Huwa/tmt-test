@@ -1,0 +1,1395 @@
+{
+ "days": [
+  "Monday",
+  "Tuesday",
+  "Wednesday",
+  "Thursday",
+  "Friday"
+ ],
+ "periods": 10,
+ "bells": [
+  "07:00-07:40",
+  "07:40-08:20",
+  "08:20-09:00",
+  "09:20-10:00",
+  "10:00-10:40",
+  "10:50-11:30",
+  "11:30-12:10",
+  "13:30-14:10",
+  "14:10-14:50",
+  "14:50-15:30"
+ ],
+ "breaks_after": [
+  3,
+  5,
+  7
+ ],
+ "double_starts": [
+  1,
+  2,
+  4,
+  6,
+  8,
+  9
+ ],
+ "classes": [
+  "1B",
+  "1G",
+  "2B",
+  "2G",
+  "3B",
+  "3G",
+  "4B",
+  "4G"
+ ],
+ "teachers": {
+  "B1": "R.G. CHENJE",
+  "B2": "F.G.K. MSUKWA",
+  "B3": "A. NKHWAZI",
+  "B4": "K.K. MSISKA",
+  "B5": "M.C.V. KAMANGA",
+  "B6": "K. BANDA",
+  "B7": "L. KAYILA",
+  "B8": "L. CHIRWA",
+  "B9": "I. CHIRAMBO",
+  "B10": "C. NGWIRA",
+  "B11": "M. KAYUNI",
+  "B13": "A. MUGHOGHO",
+  "B14": "MWAMBA",
+  "G1": "Z. NKHATA",
+  "G2": "P. ZIMBA",
+  "G3": "J. KAUNDA",
+  "G4": "T. HUWA",
+  "G5": "I. MAHOWE",
+  "G6": "M. NYIRONGO",
+  "G7": "P. SOKO",
+  "G8": "L. PHIRI",
+  "G9": "G. MKANDAWIRE",
+  "G10": "T.M. CHIRWA"
+ },
+ "lessons": [
+  {
+   "class": "3B",
+   "subject": "English",
+   "teacher": "B1",
+   "length": 2,
+   "count": 2
+  },
+  {
+   "class": "3B",
+   "subject": "English",
+   "teacher": "B1",
+   "length": 1,
+   "count": 2
+  },
+  {
+   "class": "4B",
+   "subject": "English",
+   "teacher": "B1",
+   "length": 2,
+   "count": 2
+  },
+  {
+   "class": "4B",
+   "subject": "English",
+   "teacher": "B1",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "4G",
+   "subject": "English",
+   "teacher": "B1",
+   "length": 2,
+   "count": 2
+  },
+  {
+   "class": "4G",
+   "subject": "English",
+   "teacher": "B1",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "2B",
+   "subject": "Bible Knowledge",
+   "teacher": "B2",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "2B",
+   "subject": "Bible Knowledge",
+   "teacher": "B2",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "2B",
+   "subject": "Social Studies",
+   "teacher": "B2",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "2B",
+   "subject": "Social Studies",
+   "teacher": "B2",
+   "length": 1,
+   "count": 2
+  },
+  {
+   "class": "4B",
+   "subject": "Social Studies",
+   "teacher": "B2",
+   "length": 2,
+   "count": 2
+  },
+  {
+   "class": "4B",
+   "subject": "Social Studies",
+   "teacher": "B2",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "1B",
+   "subject": "French",
+   "teacher": "B3",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "1B",
+   "subject": "French",
+   "teacher": "B3",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "2B",
+   "subject": "French",
+   "teacher": "B3",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "2B",
+   "subject": "French",
+   "teacher": "B3",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "3B",
+   "subject": "French",
+   "teacher": "B3",
+   "length": 2,
+   "count": 2
+  },
+  {
+   "class": "4B",
+   "subject": "French",
+   "teacher": "B3",
+   "length": 2,
+   "count": 2
+  },
+  {
+   "class": "1G",
+   "subject": "French",
+   "teacher": "B3",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "1G",
+   "subject": "French",
+   "teacher": "B3",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "2G",
+   "subject": "French",
+   "teacher": "B3",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "2G",
+   "subject": "French",
+   "teacher": "B3",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "3G",
+   "subject": "French",
+   "teacher": "B3",
+   "length": 2,
+   "count": 2
+  },
+  {
+   "class": "4G",
+   "subject": "French",
+   "teacher": "B3",
+   "length": 2,
+   "count": 2
+  },
+  {
+   "class": "1B",
+   "subject": "Chichewa",
+   "teacher": "B4",
+   "length": 2,
+   "count": 2
+  },
+  {
+   "class": "1B",
+   "subject": "Chichewa",
+   "teacher": "B4",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "2B",
+   "subject": "Chichewa",
+   "teacher": "B4",
+   "length": 2,
+   "count": 2
+  },
+  {
+   "class": "2B",
+   "subject": "Chichewa",
+   "teacher": "B4",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "1G",
+   "subject": "Chichewa",
+   "teacher": "B4",
+   "length": 2,
+   "count": 2
+  },
+  {
+   "class": "1G",
+   "subject": "Chichewa",
+   "teacher": "B4",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "2G",
+   "subject": "Chichewa",
+   "teacher": "B4",
+   "length": 2,
+   "count": 2
+  },
+  {
+   "class": "2G",
+   "subject": "Chichewa",
+   "teacher": "B4",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "2B",
+   "subject": "Geography",
+   "teacher": "B5",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "2B",
+   "subject": "Geography",
+   "teacher": "B5",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "3B",
+   "subject": "Geography",
+   "teacher": "B5",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "3B",
+   "subject": "Geography",
+   "teacher": "B5",
+   "length": 1,
+   "count": 2
+  },
+  {
+   "class": "4B",
+   "subject": "Geography",
+   "teacher": "B5",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "4B",
+   "subject": "Geography",
+   "teacher": "B5",
+   "length": 1,
+   "count": 2
+  },
+  {
+   "class": "1B",
+   "subject": "Social Studies",
+   "teacher": "B5",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "1B",
+   "subject": "Social Studies",
+   "teacher": "B5",
+   "length": 1,
+   "count": 2
+  },
+  {
+   "class": "3B",
+   "subject": "Mathematics",
+   "teacher": "B6",
+   "length": 2,
+   "count": 2
+  },
+  {
+   "class": "3B",
+   "subject": "Mathematics",
+   "teacher": "B6",
+   "length": 1,
+   "count": 3
+  },
+  {
+   "class": "4B",
+   "subject": "Mathematics",
+   "teacher": "B6",
+   "length": 2,
+   "count": 2
+  },
+  {
+   "class": "4B",
+   "subject": "Mathematics",
+   "teacher": "B6",
+   "length": 1,
+   "count": 3
+  },
+  {
+   "class": "1B",
+   "subject": "Agriculture",
+   "teacher": "B7",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "1B",
+   "subject": "Agriculture",
+   "teacher": "B7",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "2B",
+   "subject": "Agriculture",
+   "teacher": "B7",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "2B",
+   "subject": "Agriculture",
+   "teacher": "B7",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "3B",
+   "subject": "Agriculture",
+   "teacher": "B7",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "3B",
+   "subject": "Agriculture",
+   "teacher": "B7",
+   "length": 1,
+   "count": 2
+  },
+  {
+   "class": "4B",
+   "subject": "Agriculture",
+   "teacher": "B7",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "4B",
+   "subject": "Agriculture",
+   "teacher": "B7",
+   "length": 1,
+   "count": 2
+  },
+  {
+   "class": "3B",
+   "subject": "Physics",
+   "teacher": "B8",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "3B",
+   "subject": "Physics",
+   "teacher": "B8",
+   "length": 1,
+   "count": 2
+  },
+  {
+   "class": "4B",
+   "subject": "Physics",
+   "teacher": "B8",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "4B",
+   "subject": "Physics",
+   "teacher": "B8",
+   "length": 1,
+   "count": 2
+  },
+  {
+   "class": "4B",
+   "subject": "Chemistry",
+   "teacher": "B8",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "4B",
+   "subject": "Chemistry",
+   "teacher": "B8",
+   "length": 1,
+   "count": 2
+  },
+  {
+   "class": "3G",
+   "subject": "Chemistry",
+   "teacher": "B8",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "3G",
+   "subject": "Chemistry",
+   "teacher": "B8",
+   "length": 1,
+   "count": 2
+  },
+  {
+   "class": "4G",
+   "subject": "Chemistry",
+   "teacher": "B8",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "4G",
+   "subject": "Chemistry",
+   "teacher": "B8",
+   "length": 1,
+   "count": 2
+  },
+  {
+   "class": "1B",
+   "subject": "Biology",
+   "teacher": "B9",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "1B",
+   "subject": "Biology",
+   "teacher": "B9",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "4B",
+   "subject": "Biology",
+   "teacher": "B9",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "4B",
+   "subject": "Biology",
+   "teacher": "B9",
+   "length": 1,
+   "count": 2
+  },
+  {
+   "class": "1B",
+   "subject": "Mathematics",
+   "teacher": "B9",
+   "length": 2,
+   "count": 2
+  },
+  {
+   "class": "1B",
+   "subject": "Mathematics",
+   "teacher": "B9",
+   "length": 1,
+   "count": 3
+  },
+  {
+   "class": "1B",
+   "subject": "History",
+   "teacher": "B10",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "1B",
+   "subject": "History",
+   "teacher": "B10",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "2B",
+   "subject": "History",
+   "teacher": "B10",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "2B",
+   "subject": "History",
+   "teacher": "B10",
+   "length": 1,
+   "count": 2
+  },
+  {
+   "class": "3B",
+   "subject": "History",
+   "teacher": "B10",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "3B",
+   "subject": "History",
+   "teacher": "B10",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "4B",
+   "subject": "History",
+   "teacher": "B10",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "4B",
+   "subject": "History",
+   "teacher": "B10",
+   "length": 1,
+   "count": 2
+  },
+  {
+   "class": "1B",
+   "subject": "Geography",
+   "teacher": "B10",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "1B",
+   "subject": "Geography",
+   "teacher": "B10",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "2B",
+   "subject": "Mathematics",
+   "teacher": "B11",
+   "length": 2,
+   "count": 2
+  },
+  {
+   "class": "2B",
+   "subject": "Mathematics",
+   "teacher": "B11",
+   "length": 1,
+   "count": 3
+  },
+  {
+   "class": "1B",
+   "subject": "Physics",
+   "teacher": "B11",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "1B",
+   "subject": "Physics",
+   "teacher": "B11",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "2B",
+   "subject": "Physics",
+   "teacher": "B11",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "2B",
+   "subject": "Physics",
+   "teacher": "B11",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "3B",
+   "subject": "Social Studies",
+   "teacher": "B13",
+   "length": 2,
+   "count": 2
+  },
+  {
+   "class": "3B",
+   "subject": "Social Studies",
+   "teacher": "B13",
+   "length": 1,
+   "count": 2
+  },
+  {
+   "class": "2G",
+   "subject": "Social Studies",
+   "teacher": "B13",
+   "length": 2,
+   "count": 2
+  },
+  {
+   "class": "2G",
+   "subject": "Social Studies",
+   "teacher": "B13",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "3G",
+   "subject": "Social Studies",
+   "teacher": "B13",
+   "length": 2,
+   "count": 2
+  },
+  {
+   "class": "3G",
+   "subject": "Social Studies",
+   "teacher": "B13",
+   "length": 1,
+   "count": 2
+  },
+  {
+   "class": "4G",
+   "subject": "Social Studies",
+   "teacher": "B13",
+   "length": 2,
+   "count": 2
+  },
+  {
+   "class": "4G",
+   "subject": "Social Studies",
+   "teacher": "B13",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "2B",
+   "subject": "Biology",
+   "teacher": "B14",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "2B",
+   "subject": "Biology",
+   "teacher": "B14",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "3B",
+   "subject": "Biology",
+   "teacher": "B14",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "3B",
+   "subject": "Biology",
+   "teacher": "B14",
+   "length": 1,
+   "count": 2
+  },
+  {
+   "class": "2G",
+   "subject": "Mathematics",
+   "teacher": "G1",
+   "length": 2,
+   "count": 2
+  },
+  {
+   "class": "2G",
+   "subject": "Mathematics",
+   "teacher": "G1",
+   "length": 1,
+   "count": 3
+  },
+  {
+   "class": "3G",
+   "subject": "Mathematics",
+   "teacher": "G1",
+   "length": 2,
+   "count": 2
+  },
+  {
+   "class": "3G",
+   "subject": "Mathematics",
+   "teacher": "G1",
+   "length": 1,
+   "count": 3
+  },
+  {
+   "class": "4G",
+   "subject": "Mathematics",
+   "teacher": "G1",
+   "length": 2,
+   "count": 2
+  },
+  {
+   "class": "4G",
+   "subject": "Mathematics",
+   "teacher": "G1",
+   "length": 1,
+   "count": 3
+  },
+  {
+   "class": "1G",
+   "subject": "Agriculture",
+   "teacher": "G2",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "1G",
+   "subject": "Agriculture",
+   "teacher": "G2",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "2G",
+   "subject": "Agriculture",
+   "teacher": "G2",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "2G",
+   "subject": "Agriculture",
+   "teacher": "G2",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "3G",
+   "subject": "Agriculture",
+   "teacher": "G2",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "3G",
+   "subject": "Agriculture",
+   "teacher": "G2",
+   "length": 1,
+   "count": 2
+  },
+  {
+   "class": "4G",
+   "subject": "Agriculture",
+   "teacher": "G2",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "4G",
+   "subject": "Agriculture",
+   "teacher": "G2",
+   "length": 1,
+   "count": 2
+  },
+  {
+   "class": "2B",
+   "subject": "Chemistry",
+   "teacher": "G2",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "2B",
+   "subject": "Chemistry",
+   "teacher": "G2",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "1G",
+   "subject": "Geography",
+   "teacher": "G3",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "1G",
+   "subject": "Geography",
+   "teacher": "G3",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "2G",
+   "subject": "Geography",
+   "teacher": "G3",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "2G",
+   "subject": "Geography",
+   "teacher": "G3",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "3G",
+   "subject": "Geography",
+   "teacher": "G3",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "3G",
+   "subject": "Geography",
+   "teacher": "G3",
+   "length": 1,
+   "count": 2
+  },
+  {
+   "class": "4G",
+   "subject": "Geography",
+   "teacher": "G3",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "4G",
+   "subject": "Geography",
+   "teacher": "G3",
+   "length": 1,
+   "count": 2
+  },
+  {
+   "class": "1B",
+   "subject": "Computer Studies",
+   "teacher": "G4",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "1B",
+   "subject": "Computer Studies",
+   "teacher": "G4",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "2B",
+   "subject": "Computer Studies",
+   "teacher": "G4",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "2B",
+   "subject": "Computer Studies",
+   "teacher": "G4",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "1G",
+   "subject": "Computer Studies",
+   "teacher": "G4",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "1G",
+   "subject": "Computer Studies",
+   "teacher": "G4",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "2G",
+   "subject": "Computer Studies",
+   "teacher": "G4",
+   "length": 2,
+   "count": 2
+  },
+  {
+   "class": "1G",
+   "subject": "History",
+   "teacher": "G5",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "1G",
+   "subject": "History",
+   "teacher": "G5",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "2G",
+   "subject": "History",
+   "teacher": "G5",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "2G",
+   "subject": "History",
+   "teacher": "G5",
+   "length": 1,
+   "count": 2
+  },
+  {
+   "class": "3G",
+   "subject": "History",
+   "teacher": "G5",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "3G",
+   "subject": "History",
+   "teacher": "G5",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "4G",
+   "subject": "History",
+   "teacher": "G5",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "4G",
+   "subject": "History",
+   "teacher": "G5",
+   "length": 1,
+   "count": 2
+  },
+  {
+   "class": "1G",
+   "subject": "Social Studies",
+   "teacher": "G5",
+   "length": 2,
+   "count": 2
+  },
+  {
+   "class": "1G",
+   "subject": "Social Studies",
+   "teacher": "G5",
+   "length": 1,
+   "count": 2
+  },
+  {
+   "class": "2B",
+   "subject": "English",
+   "teacher": "G6",
+   "length": 2,
+   "count": 2
+  },
+  {
+   "class": "2B",
+   "subject": "English",
+   "teacher": "G6",
+   "length": 1,
+   "count": 2
+  },
+  {
+   "class": "2G",
+   "subject": "English",
+   "teacher": "G6",
+   "length": 2,
+   "count": 2
+  },
+  {
+   "class": "2G",
+   "subject": "English",
+   "teacher": "G6",
+   "length": 1,
+   "count": 3
+  },
+  {
+   "class": "3G",
+   "subject": "English",
+   "teacher": "G6",
+   "length": 2,
+   "count": 2
+  },
+  {
+   "class": "3G",
+   "subject": "English",
+   "teacher": "G6",
+   "length": 1,
+   "count": 2
+  },
+  {
+   "class": "1B",
+   "subject": "Bible Knowledge",
+   "teacher": "G6",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "1B",
+   "subject": "Bible Knowledge",
+   "teacher": "G6",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "1G",
+   "subject": "Biology",
+   "teacher": "G7",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "1G",
+   "subject": "Biology",
+   "teacher": "G7",
+   "length": 1,
+   "count": 2
+  },
+  {
+   "class": "2G",
+   "subject": "Biology",
+   "teacher": "G7",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "2G",
+   "subject": "Biology",
+   "teacher": "G7",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "3G",
+   "subject": "Biology",
+   "teacher": "G7",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "3G",
+   "subject": "Biology",
+   "teacher": "G7",
+   "length": 1,
+   "count": 2
+  },
+  {
+   "class": "4G",
+   "subject": "Biology",
+   "teacher": "G7",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "4G",
+   "subject": "Biology",
+   "teacher": "G7",
+   "length": 1,
+   "count": 2
+  },
+  {
+   "class": "1B",
+   "subject": "Chemistry",
+   "teacher": "G7",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "1B",
+   "subject": "Chemistry",
+   "teacher": "G7",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "3B",
+   "subject": "Chichewa",
+   "teacher": "G8",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "3B",
+   "subject": "Chichewa",
+   "teacher": "G8",
+   "length": 1,
+   "count": 2
+  },
+  {
+   "class": "4B",
+   "subject": "Chichewa",
+   "teacher": "G8",
+   "length": 2,
+   "count": 2
+  },
+  {
+   "class": "4B",
+   "subject": "Chichewa",
+   "teacher": "G8",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "3G",
+   "subject": "Chichewa",
+   "teacher": "G8",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "3G",
+   "subject": "Chichewa",
+   "teacher": "G8",
+   "length": 1,
+   "count": 2
+  },
+  {
+   "class": "4G",
+   "subject": "Chichewa",
+   "teacher": "G8",
+   "length": 2,
+   "count": 2
+  },
+  {
+   "class": "4G",
+   "subject": "Chichewa",
+   "teacher": "G8",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "1G",
+   "subject": "Bible Knowledge",
+   "teacher": "G9",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "1G",
+   "subject": "Bible Knowledge",
+   "teacher": "G9",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "2G",
+   "subject": "Bible Knowledge",
+   "teacher": "G9",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "2G",
+   "subject": "Bible Knowledge",
+   "teacher": "G9",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "1B",
+   "subject": "English",
+   "teacher": "G9",
+   "length": 2,
+   "count": 2
+  },
+  {
+   "class": "1B",
+   "subject": "English",
+   "teacher": "G9",
+   "length": 1,
+   "count": 3
+  },
+  {
+   "class": "1G",
+   "subject": "English",
+   "teacher": "G9",
+   "length": 2,
+   "count": 2
+  },
+  {
+   "class": "1G",
+   "subject": "English",
+   "teacher": "G9",
+   "length": 1,
+   "count": 3
+  },
+  {
+   "class": "1G",
+   "subject": "Physics",
+   "teacher": "G10",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "1G",
+   "subject": "Physics",
+   "teacher": "G10",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "2G",
+   "subject": "Physics",
+   "teacher": "G10",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "2G",
+   "subject": "Physics",
+   "teacher": "G10",
+   "length": 1,
+   "count": 1
+  },
+  {
+   "class": "3G",
+   "subject": "Physics",
+   "teacher": "G10",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "3G",
+   "subject": "Physics",
+   "teacher": "G10",
+   "length": 1,
+   "count": 2
+  },
+  {
+   "class": "4G",
+   "subject": "Physics",
+   "teacher": "G10",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "4G",
+   "subject": "Physics",
+   "teacher": "G10",
+   "length": 1,
+   "count": 2
+  },
+  {
+   "class": "1G",
+   "subject": "Mathematics",
+   "teacher": "G10",
+   "length": 2,
+   "count": 2
+  },
+  {
+   "class": "1G",
+   "subject": "Mathematics",
+   "teacher": "G10",
+   "length": 1,
+   "count": 3
+  },
+  {
+   "class": "3B",
+   "subject": "Chemistry",
+   "teacher": "B8",
+   "length": 2,
+   "count": 1
+  },
+  {
+   "class": "3B",
+   "subject": "Chemistry",
+   "teacher": "B8",
+   "length": 1,
+   "count": 2
+  }
+ ],
+ "one_lesson_per_subject_per_day": true,
+ "hard_rules": [
+  {
+   "subject": "Mathematics",
+   "max_period": 7
+  }
+ ],
+ "soft_rules": [
+  {
+   "subject": "Computer Studies",
+   "avoid_periods": [
+    7,
+    8
+   ],
+   "weight": 10
+  },
+  {
+   "subject": "Computer Studies",
+   "avoid_days": [
+    4
+   ],
+   "weight": 10
+  },
+  {
+   "subject": "French",
+   "classes": [
+    "3B",
+    "3G",
+    "4B",
+    "4G"
+   ],
+   "avoid_periods": [
+    7
+   ],
+   "weight": 50
+  }
+ ],
+ "break_names": [
+  "Tea Break",
+  "Water Break",
+  "Lunch"
+ ]
+}
